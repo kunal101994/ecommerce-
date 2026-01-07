@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina Luxe E-Commerce",
+  "description": "A high-end, production-grade e-commerce application featuring an AI-powered shopping concierge, visual search, and seamless checkout experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
